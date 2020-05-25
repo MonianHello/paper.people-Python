@@ -16,3 +16,6 @@
     import sys
     import argparse
 
+每日会对当天人民日报文章进行爬取，保存在此仓库内，使用此爬虫得到的文件结构与此相同
+`requests.exceptions.HTTPError: 404 Client Error: Not Found for url`一般表示还没有该天的报纸（即未发布
+
